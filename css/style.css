@@ -1,0 +1,44 @@
+	
+.icon-block {
+	padding: 0 15px;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.right.big-nav a{
+	color: #212121; /* grey darken-4*/
+}
+
+.phone-number{
+	font-size: 24px;
+}
+
+.lap-img{
+	margin-top: -50px;
+}
+
+#lgo-container{
+	padding-left: 30px;
+}
+
+#index-banner{
+	padding-top: 0;
+}
+        
+@media only screen and (max-width : 992px) {
+	.big-nav{
+		display: none;
+	}
+
+	#lgo-container{
+		padding-left: 0;
+	}
+}
+
+@media only screen and (max-width : 600px) {
+	.ft-center{
+		text-align: center;
+	}
+}
