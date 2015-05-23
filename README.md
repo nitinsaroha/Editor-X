@@ -7,7 +7,7 @@ HTML5 template that you can use for your small project based on Material Design.
 It is :
 * Fully responsive
 * Built using [Materialize Framework](http://materializecss.com/)
-* Super Cutsomizable
+* Super Customizable
 * 100% Free under MIT License
 
 Note: **Editor-X is just a name that I have given to this template.**
