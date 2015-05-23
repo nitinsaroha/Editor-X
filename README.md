@@ -1,4 +1,4 @@
-Free HTML5 Template
+Free HTML5 Site Template
 =====================
 
 Editor-X
